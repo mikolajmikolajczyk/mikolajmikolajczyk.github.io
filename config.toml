@@ -76,11 +76,11 @@ expiryDate = ["expiryDate"]
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Continuing Hermit's legacy to be minimal and fast theme"
+  description = "mikolajczyk.org - Exploring modern DevOps and diving into the charm of retro computing."
   # images = [""]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "Continuing Hermit's legacy to be minimal and fast theme"
+  #homeSubtitle = "Exploring modern DevOps and diving into the charm of retro computing."
   footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
