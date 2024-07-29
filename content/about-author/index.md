@@ -4,7 +4,7 @@ date: 2024-07-28T17:56:51+02:00
 draft: false
 ---
 
-I'm Mikołajczyk, a seasoned DevOps engineer with a passion for both cutting-edge technology and nostalgic computing. My professional journey began in 2014 as a WordPress developer, where I honed my skills in web development. From there, I transitioned to administering Linux-based machines at the Office for Registration of Medicinal Products, Medical Devices, and Biocidal Products.
+I'm Mikołaj Mikołajczyk, a seasoned DevOps engineer with a passion for both cutting-edge technology and nostalgic computing. My professional journey began in 2014 as a WordPress developer, where I honed my skills in web development. From there, I transitioned to administering Linux-based machines at the Office for Registration of Medicinal Products, Medical Devices, and Biocidal Products.
 
 My career path then led me to Citibank, where I managed various Unix-based systems and developed in-house tools to automate change management processes. Seeking new challenges, I joined Samsung as a DevOps engineer, contributing to their Private Cloud DNS project, akin to AWS Route53. Currently, I work at Inetum Poland, serving a client from Cumulocity GmbH, where I engage in innovative IoT projects.
 
