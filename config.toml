@@ -106,6 +106,9 @@ expiryDate = ["expiryDate"]
   # initialPublish = "Initally Posted on: "
   #human = ["single","posts"]
 
+  [[params.socialLinks]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/miko%C5%82aj-miko%C5%82ajczyk/"
 
 
   [[params.socialLinks]]
