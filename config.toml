@@ -31,6 +31,8 @@ rssLimit = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 enableEmoji = true
 
+custom_js = ["assets/custom_js/piwik.js"]
+
 #[services]
 #  [services.disqus]
 #    shortname = ''
@@ -106,6 +108,8 @@ expiryDate = ["expiryDate"]
   # initialPublish = "Initally Posted on: "
   #human = ["single","posts"]
 
+
+
   [[params.socialLinks]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/miko%C5%82aj-miko%C5%82ajczyk/"
@@ -126,3 +130,4 @@ expiryDate = ["expiryDate"]
     name = "About"
     url = "about-author/"
     weight = 20
+
