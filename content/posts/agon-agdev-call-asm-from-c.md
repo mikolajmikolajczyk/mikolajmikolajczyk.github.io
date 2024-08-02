@@ -5,7 +5,8 @@ draft: false
 toc: false
 images:
 tags: 
-  - untagged
+  - agon
+  - c
 ---
 
 Combining C and assembly allows you to leverage the strengths of both languages: the high-level structure and portability of C, and the low-level control and efficiency of assembly. This can be particularly useful for performance-critical code, hardware manipulation, or when dealing with legacy code.
